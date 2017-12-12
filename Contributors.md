@@ -8,6 +8,7 @@
 - [Philip Mutua](https://github.com/pmutua)
 - [Juan Dougnac](http://github.com/jdougnac)
 - [Baptistemz](https://github.com/baptistemz)
+- [Pawel Budzynski] (https://github.com/barinote)
 - [arun](https://github.com/arun99481)
 - [Harsh Mutha](https://github.com/harshm31)
 - [Bill McClung](https://github.com/cfgauss)
